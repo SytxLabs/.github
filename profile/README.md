@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sytxlabs" target="blank"><img src="https://img.shields.io/twitter/follow/sytxlabs?logo=twitter&style=for-the-badge" alt="sytxlabs" /></a> </p>
 
-- 📫 How to reach me **info@sytxlabs.eu**
-
+- 📫 How to reach us **info@sytxlabs.eu**
+- Packagist: [Link](https://packagist.org/users/SytxLabs/)
+- Pypi: [Link](https://pypi.org/user/Sytxlabs/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sytxlabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sytxlabs" height="30" width="40" /></a>
