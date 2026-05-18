@@ -37,8 +37,8 @@
 ## 📬 Reach us
 
 - 📫 Email: **info@sytxlabs.eu**
-- 📦 Packagist: [SytxLabs on Packagist](https://packagist.org)
-- 🐍 PyPI: [SytxLabs on PyPI](https://pypi.org)
+- 📦 Packagist: [SytxLabs on Packagist](https://packagist.org/users/SytxLabs/)
+- 🐍 PyPI: [SytxLabs on PyPI](https://pypi.org/user/Sytxlabs/)
 
 ---
 
